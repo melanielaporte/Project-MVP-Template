@@ -59,3 +59,31 @@ footer {
   background: #333;
   color: white;
 }
+
+/* 3 COLUMNS */
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.column1 {
+  flex: 10 0 20%;  /* 20% of the screen */
+}
+
+.column2 {
+  flex: 0 0 45%;  /* Between 21% and 51%, adjust as needed */
+}
+
+.column3 {
+  flex: 0 0 34%;  /* Adjust this width */
+  text-align: right;
+  margin-right: 30px;
+}
+
+.column3 ul {
+  list-style-type: none;
+}
+
+.title {
+  font-weight: bold;
+}
