@@ -1,2 +1,4 @@
-# project-template-novices
-Template repository for starting new HTML, CSS, and JavaScript projects.
+<h1 align="center">Template</h1>
+
+
+Type here...
