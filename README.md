@@ -1,7 +1,10 @@
 <h1 align="center">Front End Project Template</h1>
 
-Type here...
+This README.md file contains starter titles and subtitles. 
+The folder contains boilerplate HTML, CSS, and JavaScript code. 
 
+
+ 
 # Type here...
 Type here...
 
