@@ -1,23 +1,47 @@
 <h1 align="center">Project MVP Template</h1>
 
 This README.md file contains starter titles and subtitles. 
-The folder contains boilerplate HTML, CSS, and JavaScript code. 
-
-
+The repo contains boilerplate folders and files.
  
-# Type here...
-Type here...
-
-## Type here...
-
-Type here...
-
-### Type here...
-Type here...
-
-# Type here...
+## 🚀 Overview
+- 
+- 
 - 
 
+## 📁 File Structure
+- 
+- 
+- 
 
+## 🛠 Tech Stack
+- 
+- 
+- 
 
+## 🔧 Setup Instructions
+- 
+- 
+- 
 
+## 🖥️ Database Setup
+- 
+- 
+- 
+
+## 🚀 Features
+- 
+- 
+- 
+
+## 🛣️ Roadmap
+- 
+- 
+- 
+
+## 📜 License
+
+MIT License. Use and modify freely!
+
+---
+
+Made with ❤️ by Melanie Laporte
